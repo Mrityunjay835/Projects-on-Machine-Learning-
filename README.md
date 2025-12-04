@@ -24,9 +24,11 @@ This repository contains a collection of Machine Learning projects built using P
 ---
 
 ## 🛠️ Setup & Installation
-[git clone https://github.com/Mrityunjay835/Projects-on-Machine-Learning-]
-cd xxProject_filexx
-pip install -r requirements.txt
+  [git clone https://github.com/Mrityunjay835/Projects-on-Machine-Learning-]
+
+  cd xxProject_filexx
+
+  pip install -r requirements.txt
 
 ## 🔐 Disclaimer
 
