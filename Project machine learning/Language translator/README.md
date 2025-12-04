@@ -30,12 +30,20 @@ It translates **English text to French** and provides an easy-to-use graphical i
 ## 📂 Project Structure
 Project machine learning/
 └── Language translator/
+    ├── LangTransGui.py         # Python run ui
     ├── languageTraning.ipynb         # Main application script with Tkinter UI
     ├── README.md              # Project documentation (this file)
-    └── LangTransGui.py       # Python run ui
+    ├── model_plot.png         # Main application script with Tkinter UI
+    ├── training_data.pkl              # Project documentation (this file)
+    └── eng-french.txt       # All eng french data in space seprate value
 
 ## 🛠️ Setup & Installation
 [git clone https://github.com/Mrityunjay835/Projects-on-Machine-Learning-]
+
+## 💬 Running the Chatbot
+cd Language translator
+python languageTraning.py
+
 
 
 ## 👨‍💻 Author
