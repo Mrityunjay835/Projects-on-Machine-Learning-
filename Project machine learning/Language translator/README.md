@@ -1,0 +1,37 @@
+# 🇬🇧 ➝ 🇫🇷 English–French Language Translator (Tkinter UI)
+
+This project is a simple **desktop language translator app** built with **Python** and **Tkinter**.  
+It translates **English text to French** and provides an easy-to-use graphical interface for users.
+
+---
+
+## ✨ Features
+
+- Translate text from **English ➝ French**
+- Clean **Tkinter-based GUI**
+- Input box for English text
+- Output area showing the French translation
+- Buttons for:
+  - Translating text
+  - Clearing input/output
+  - Exiting the application
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python 3.x**
+- **Tkinter** – for building the GUI
+- **Translation library / API** – used under the hood to perform English ➝ French translation  
+  (e.g., `googletrans`, `deep-translator`, or similar – update this line based on your code)
+
+---
+
+## 📂 Project Structure
+
+```bash
+Project machine learning/
+└── Language translator/
+    ├── translator.py          # Main application script with Tkinter UI
+    ├── README.md              # Project documentation (this file)
+    └── requirements.txt       # Python dependencies (if present)
