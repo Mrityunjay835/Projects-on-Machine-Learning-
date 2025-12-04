@@ -20,7 +20,7 @@ It translates **English text to French** and provides an easy-to-use graphical i
 
 ## 🛠️ Tech Stack
 
-- **Python 3.x**
+- **Python 3**
 - **Tkinter** – for building the GUI
 - **Translation library / API** – used under the hood to perform English ➝ French translation  
   (e.g., `googletrans`, `deep-translator`, or similar – update this line based on your code)
@@ -30,9 +30,15 @@ It translates **English text to French** and provides an easy-to-use graphical i
 ## 📂 Project Structure
 Project machine learning/
 └── Language translator/
-    ├── translator.py          # Main application script with Tkinter UI
+    ├── languageTraning.ipynb         # Main application script with Tkinter UI
     ├── README.md              # Project documentation (this file)
-    └── requirements.txt       # Python dependencies (if present)
+    └── LangTransGui.py       # Python run ui
 
 ## 🛠️ Setup & Installation
 [git clone https://github.com/Mrityunjay835/Projects-on-Machine-Learning-]
+
+
+## 👨‍💻 Author
+
+Mrityunjay Kumar
+mrityunjaykumar835@gmail.com
