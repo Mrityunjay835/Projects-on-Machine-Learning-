@@ -28,10 +28,11 @@ It translates **English text to French** and provides an easy-to-use graphical i
 ---
 
 ## 📂 Project Structure
-
-```bash
 Project machine learning/
 └── Language translator/
     ├── translator.py          # Main application script with Tkinter UI
     ├── README.md              # Project documentation (this file)
     └── requirements.txt       # Python dependencies (if present)
+
+## 🛠️ Setup & Installation
+[git clone https://github.com/Mrityunjay835/Projects-on-Machine-Learning-]
