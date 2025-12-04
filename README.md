@@ -8,8 +8,8 @@ This repository contains a collection of Machine Learning projects built using P
 | Language | Python |
 | NLP Processing | NLTK |
 | AI/ML Framework | TensorFlow / Keras |
-| Data Storage | JSON (for intents), Pickle for saved vocab + labels |
-| Model | Feed-Forward Neural Network |
+| Data Storage | JSON (for intents), CSV, Pickle for saved vocab + labels |
+| Model | Feed-Forward Neural Network, CNN, RNN etc. |
 
 ---
 
