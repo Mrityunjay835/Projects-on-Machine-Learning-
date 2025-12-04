@@ -64,12 +64,6 @@ This chatbot uses **Natural Language Processing (NLP)** with **NLTK**, and a Neu
 cd Healthcare-Chatbot
 pip install -r requirements.txt
 
-cd Healthcare-Chatbot
-pip install -r requirements.txt
-
-cd Healthcare-Chatbot
-pip install -r requirements.txt
-
 ## Download required NLTK data:
 import nltk
 nltk.download('punkt')
