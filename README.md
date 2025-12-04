@@ -39,12 +39,13 @@ This chatbot uses **Natural Language Processing (NLP)** with **NLTK**, and a Neu
 
 📦 Healthcare-Chatbot
 │
-├── intents.json # predefined training dataset (intents & responses)
-├── chatbot_Application_model.h5 # saved ML model
-├── words.pkl # vocabulary (preprocessed words)
-├── labels.pkl # output class labels
-├── train_chatbot.py # training script
-└── chatbot_response.py # chat interaction script
+├── intents.json                 # Predefined training dataset (intents & responses)
+├── chatbot_Application_model.h5 # Saved ML model after training
+├── words.pkl                    # Saved vocabulary (preprocessed words)
+├── labels.pkl                   # Saved output class labels
+├── train_chatbot.py             # Script for training the chatbot model
+└── chatbot_response.py          # Script for running chatbot interaction
+
 
 
 
