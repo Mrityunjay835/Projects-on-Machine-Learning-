@@ -77,12 +77,9 @@ You can update this section with more images from your results.
 Evaluation Metrics: BLEU Scores (insert your score here)
 
 Performance improves with:
-
-Attention mechanisms
-
-Transformers (e.g., ViT + GPT decoders)
-
-Larger datasets like Flickr30k/MS COCO
+*Attention mechanisms
+*Transformers 
+*Larger datasets like Flickr30k/MS COCO
 
 ## 🛠️ Technologies Used
 
