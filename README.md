@@ -18,9 +18,6 @@ This repository contains a collection of Machine Learning projects built using P
 📦 Poject machine learning
 * 🏥 Healthcare Query Chatbot
 * ⌨️ Language translator
-├──
-└──
-
 ---
 
 ## 🛠️ Setup & Installation
