@@ -34,17 +34,9 @@ Place the images and captions inside a dataset/ directory after downloading.
 ## 📂 Folder Structure
 Image-Caption-Generator/
 │
-├─ dataset/                  # Flickr8k images & captions (ignored in git)
-├─ models/                   # Trained models, tokenizer, extracted features
-├─ notebooks/                # Training & testing notebooks
-├─ src/
-│   ├─ feature_extraction.py
-│   ├─ data_preprocessing.py
-│   ├─ model.py
-│   ├─ train.py
-│   └─ inference.py
-├─ examples/                 # Sample predictions
-├─ requirements.txt
+├─ archive/                                          # Flickr8k images & captions (ignored in git)
+├─ image-captioning-lstm-cnn.ipynb                   # Trained models, tokenizer, extracted features
+├─ model.png
 └─ README.md
 
 ## 🔧 Setup & Usage
