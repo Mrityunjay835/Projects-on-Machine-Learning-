@@ -8,7 +8,8 @@ The objective of this project is to automatically describe images using natural 
 Assisting visually impaired individuals by describing surroundings.
 
 *Enhancing content discovery in media libraries
-*Auto-captioning images on social media and cloud storage platforms \n
+*Auto-captioning images on social media and cloud storage platforms 
+
 *Improving image search relevance
 
 ## 🧠 Model Architecture
