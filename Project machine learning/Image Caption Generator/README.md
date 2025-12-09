@@ -6,6 +6,7 @@ This project focuses on generating accurate and meaningful captions for images u
 
 The objective of this project is to automatically describe images using natural language. This technology has several practical applications:
 Assisting visually impaired individuals by describing surroundings.
+
 *Enhancing content discovery in media libraries
 *Auto-captioning images on social media and cloud storage platforms
 *Improving image search relevance
