@@ -45,7 +45,6 @@ cd Language translator
 python languageTraning.py
 
 
-
 ## 👨‍💻 Author
 
 Mrityunjay Kumar
