@@ -12,7 +12,6 @@ This repository contains a collection of Machine Learning projects built using P
 | Model | Feed-Forward Neural Network, CNN, RNN etc. |
 
 ---
-
 ## 📂 Project Structure
 
 📦 Poject machine learning
