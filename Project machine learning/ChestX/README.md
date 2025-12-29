@@ -85,7 +85,7 @@ Plaintext
 │   ├── test/
 │   └── val/
 ├── notebooks/
-│   └── pneumonia_detection.ipynb  # Main model logic
+│   └── model.ipynb  # Main model logic
 ├── models/
 │   └── final_model.h5             # Saved Keras model
 └── README.md
